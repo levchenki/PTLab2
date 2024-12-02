@@ -1,9 +1,9 @@
 django
-psycopg2
+psycopg2-binary
 dj-database-url
 gunicorn
 whitenoise
-django-heroku
+django-on-heroku
 pytz
 sqlparse
 pyyaml
